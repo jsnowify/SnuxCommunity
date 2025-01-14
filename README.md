@@ -50,37 +50,43 @@ Snux is a modern web application built with the MERN stack (MongoDB, Express.js,
 
 2. Install Dependencies(Client):
 
-   ```npm install
+   ```bash
+   npm install
 
    ```
 
 3. Start the development server:
 
-   ```npm run dev
+   ```bash
+   npm run dev
 
    ```
 
 4. Backend Setup:
 
-   ```cd server
+   ```bash
+   cd server
 
    ```
 
 5. Install Dependencies(Server):
 
-   ```npm install
+   ```bash
+   npm install
 
    ```
 
 6. Start the server:
 
-   ```npm start
+   ```bash
+   npm start
 
    ```
 
 7. Connect to MongoDB:
 
-   ```MONGO_URI= The database setup is not complete yet as I'm currently focusing on the UI. Feel free to contact me if you'd like to collaborate on structuring the database.
+   ```bash
+   MONGO_URI= The database setup is not complete yet as I'm currently focusing on the UI. Feel free to contact me if you'd like to collaborate on structuring the database.
 
    ```
 
