@@ -105,8 +105,6 @@ Snux is a modern web application built with the MERN stack (MongoDB, Express.js,
 
 ---
 
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
