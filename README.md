@@ -85,7 +85,7 @@ Snux is a modern web application built with the MERN stack (MongoDB, Express.js,
 
 7. Connect to MongoDB:
 
-   ```bash
+   ```txt
    MONGO_URI= The database setup is not complete yet as I'm currently focusing on the UI. Feel free to contact me if you'd like to collaborate on structuring the database.
 
    ```
