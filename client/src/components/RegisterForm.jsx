@@ -6,29 +6,29 @@ const RegisterForm = () => {
   return (
     <div>
       <div className="flex flex-col gap-5 justify-center items-center h-dvh">
-        <h1 className="text-4xl">Create Account</h1>
+        <h1 className="font-bold text-7xl">Create Account</h1>
         <p>Your journey starts here today!</p>
         <form className="flex flex-col gap-5">
           <div className="flex flex-col">
-            <label className="text-base">FIRST NAME:</label>
+            <label className="text-sm">FIRST NAME:</label>
             <Input type="text" />
           </div>
           <div className="flex flex-col">
-            <label className="text-base">LAST NAME:</label>
+            <label className="text-sm">LAST NAME:</label>
             <Input type="text" />
           </div>
           <div className="flex flex-col">
-            <label className="text-base">USERNAME:</label>
+            <label className="text-sm">USERNAME:</label>
             <Input type="text" />
           </div>
 
           <div className="flex flex-col">
-            <label className="text-base">EMAIL:</label>
+            <label className="text-sm">EMAIL:</label>
             <Input type="email" />
           </div>
 
           <div className="flex flex-col">
-            <label className="text-base">PASSWORD:</label>
+            <label className="text-sm">PASSWORD:</label>
             <Input type="password" />
           </div>
           <div className="place-items-end">
